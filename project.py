@@ -1,3 +1,24 @@
+"""
+Script Name: Weather Script
+
+Description:
+This script fetches weather data from OpenWeatherMap API for a specified city and displays the current temperature, wind speed, and weather description.
+
+This script also retreives code inspiration using the umanganhuja1 github repo.
+
+Usage:
+1. Run the script.
+2. Enter the city when prompted.
+
+Dependencies:
+- Requests library
+- Python 3.x
+
+Author: Bethel Sheferaw
+Date: December 16, 2023
+"""
+
+
 import re
 import requests
 
