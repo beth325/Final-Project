@@ -26,10 +26,12 @@ Note
 If you encounter any issues, make sure your API key is correctly configured, and you have an active internet connection.
 
 
-
-
-
 ## Licensing
 
 This project is licensed under the [MIT License](LICENSE).
+
+### umangahuja1
+- **Name:** umangahuja1
+- **License:** [MIT License](https://github.com/umangahuja1/Youtube/blob/master/LICENSE)
+- **Attribution:** Use for part of the code. 
 
